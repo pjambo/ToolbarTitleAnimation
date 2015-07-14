@@ -11,7 +11,7 @@ Inspired by [Mantas's concept](http://www.materialup.com/posts/title-animation)
 
 <h2>Source</h2>
 
-Feel free to use the source code as you wish
+Feel free to use the source code as you wish. This obviously isn't a perfect implementation as I'm still learning Android... so I'd appreciate any improvements that can be made to my initial efforts.
 
 <h2>Credits</h2>
 
