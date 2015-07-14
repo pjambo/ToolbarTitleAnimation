@@ -1,7 +1,7 @@
 Toolbar Title Animation Demo
 ============================
 
-Inspired by [Matt Aussaguel's concept](http://www.materialup.com/posts/title-animation)
+Inspired by [Mantas's concept](http://www.materialup.com/posts/title-animation)
 
 <h2>Screenshot</h2>
 
@@ -15,7 +15,7 @@ Feel free to use the source code as you wish
 
 <h2>Credits</h2>
 
-  * [Matt Aussaguel](http://www.materialup.com/posts/title-animation)
+  * [Mantas](http://www.materialup.com/posts/title-animation)
   * [CircleIndicator](https://github.com/ongakuer/CircleIndicator)
 
 <h2>Copyright</h2>
